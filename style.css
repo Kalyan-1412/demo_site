@@ -1,5 +1,5 @@
 *{
-  background-color: #546A76;
+  background-color: #CEC3C1;
   box-sizing: border-box;
   margin: 0;
   padding: 0;
@@ -23,7 +23,7 @@
 }
 
 .header{
-  color:white;
+  color:black;
   font-size: 50px;
   font-family: fantasy;
   margin: 15px;
@@ -39,4 +39,17 @@
   height:35vh;
   border: 10px solid white;
   border-radius:20px;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color:black;
+}
+
+#img{
+  border-radius:60px;
+}
+
+.photos{
+  
 }
