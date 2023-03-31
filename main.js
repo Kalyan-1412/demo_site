@@ -59,8 +59,8 @@ submitButton.addEventListener('click', buttonHandler);
 
 let left = 0;
 
-function gameLoop(){
-  window.requestAnimationFrame()
-}
+// function gameLoop(){
+//   window.requestAnimationFrame()
+// }
 
-gameLoop();
+// gameLoop();
