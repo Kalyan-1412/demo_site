@@ -1,29 +1,16 @@
 * {
-
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-
   background-color:#B7D5D4
 }
 
-.container {}
-
-.top_bar {
-  background-color: #305252;
-  width: 10000vw;
-  height: 1000%;
-  display: flex;
-  justify-content: space-between;
-  z-index: 50;
-}
-
-.flex {
-  display: flex;
-
-}
-
 .video{
+  width: 10vw;
+  height: 10vh;
+}
+
+.image{
   width: 10vw;
   height: 10vh;
 }
