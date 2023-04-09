@@ -1,8 +1,11 @@
-* {
+*{
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  background-color:#B7D5D4
+  background-color: #B7D5D4
+}
+body {
+  background-color: lightblue;
 }
 
 .video{
